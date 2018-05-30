@@ -1,3 +1,3 @@
 # Web-Design
 
-This is a collection of the web besign files from web design perspective.
+This is a collection of the web design files I used from web designers' perspectives.
